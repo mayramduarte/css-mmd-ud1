@@ -1,0 +1,31 @@
+/* id selector */
+#tittle {
+  color: green;
+  background: black;
+}
+#subheading {
+  color: red;
+  background: gray;
+}
+/* end of id selector */
+/* class selector */
+.green {
+  color: green;
+}
+.red {
+  color: red;
+  background: gray;
+}
+/* end of class selector */
+/* id and class selector */
+#hi {
+  font-size: 50px;
+}
+.uppercase {
+  text-transform: uppercase;
+}
+/* enf of id and class selector */
+
+p {
+  color: purple;
+}

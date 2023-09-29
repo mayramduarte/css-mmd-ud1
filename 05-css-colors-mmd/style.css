@@ -1,0 +1,25 @@
+/* Color CSS */
+#first {
+  color: white;
+  background-color: black;
+}
+#second {
+  color: red;
+  background: yellow;
+}
+/* RGB*/
+#third {
+  color: rgb(255, 0, 0);
+  background: rgb(0, 0, 0);
+}
+#fourth {
+  color: rgb(0, 255, 0);
+  background: rgb(255, 255, 255);
+}
+#fifth {
+  color: hsla(51, 100%, 50%, 0.348);
+  background: rgb(200, 90, 230);
+}
+body {
+  background-color: rgb(150, 34, 210);
+}

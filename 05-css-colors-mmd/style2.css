@@ -1,0 +1,17 @@
+/* RGBA */
+#sixth {
+  color: rgba(255, 0, 0, 0.25);
+  background: rgba(0, 255, 0, 0.25);
+}
+#seventh {
+  color: rgba(255, 0, 0, 0.5);
+  background: rgba(0, 255, 0, 0.5);
+}
+#eighth {
+  color: rgba(255, 0, 0, 0.75);
+  background: rgba(0, 255, 0, 0.75);
+}
+#nineth {
+  color: rgba(255, 0, 0, 1);
+  background: rgba(0, 255, 0, 1);
+}
