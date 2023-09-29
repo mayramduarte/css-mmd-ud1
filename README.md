@@ -53,8 +53,12 @@
 /28-percent/" target="_blank">Practice-015 (Prática-015)</a></li>
 <li><a href="https://mayramduarte.github.io/css-mmd-ud1/07-css-units-mmd
 /29-em/" target="_blank">Practice-016 (Prática-016)</a></li>
-<li><a href="https://mayramduarte.github.io/css-mmd-ud1/07-css-units-mmd/30-rem/" target="_blank">Practice-017 (Prática-017)</a></li>
-<li><a href="https://mayramduarte.github.io/css-mmd-ud1/07-css-units-mmd/31-vh-vw/" target="_blank">Practice-018 (Prática-018)</a></li>
-<li><a href="https://mayramduarte.github.io/css-mmd-ud1/07-css-units-mmd/33-calc/" target="_blank">Practice-019 (Prática-019)</a></li>
-<li><a href="https://mayramduarte.github.io/css-mmd-ud1/07-css-units-mmd/34-min-max-height/" target="_blank">Practice-020 (Prática-020)</a></li>
+<li><a href="https://mayramduarte.github.io/css-mmd-ud1/07-css-units-mmd
+/30-rem/" target="_blank">Practice-017 (Prática-017)</a></li>
+<li><a href="https://mayramduarte.github.io/css-mmd-ud1/07-css-units-mmd
+/31-vh-vw/" target="_blank">Practice-018 (Prática-018)</a></li>
+<li><a href="https://mayramduarte.github.io/css-mmd-ud1/07-css-units-mmd
+/33-calc/" target="_blank">Practice-019 (Prática-019)</a></li>
+<li><a href="https://mayramduarte.github.io/css-mmd-ud1/07-css-units-mmd
+/34-min-max-height/" target="_blank">Practice-020 (Prática-020)</a></li>
 </ul>
