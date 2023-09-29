@@ -43,10 +43,8 @@
 /01-css-mmd/selector.html" target="_blank">Practice-009 (Prática-009)</a></li>
 <li><a href="https://mayramduarte.github.io/css-mmd-ud1
 /01-css-mmd/specificity.html" target="_blank">Practice-010 (Prática-010)</a></li>
-<li><a href="https://mayramduarte.github.io/css-mmd-ud1
-/01-css-mmd/colornameandrgb.htm" target="_blank">Practice-011 (Prática-011)</a></li>
-<li><a href="https://mayramduarte.github.io/css-mmd-ud1
-/01-css-mmd/hex.html" target="_blank">Practice-012 (Prática-012)</a></li>
-<li><a href="https://mayramduarte.github.io/css-mmd-ud1
-/01-css-mmd/rgba.html" target="_blank">Practice-013 (Prática-013)</a></li>
+<li><a href="https://mayramduarte.github.io/css-mmd-ud1/05-css-colors-mmd/colornameandrgb.html" target="_blank">Practice-011 (Prática-011)</a></li>
+<li><a href="https://mayramduarte.github.io/css-mmd-ud1/05-css-colors-mmd/hex.html" target="_blank">Practice-012 (Prática-012)</a></li>
+<li><a href="https://mayramduarte.github.io/css-mmd-ud1/05-css-colors-mmd/rgba.html
+" target="_blank">Practice-013 (Prática-013)</a></li>
 </ul>
