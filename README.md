@@ -36,11 +36,11 @@
 <li><a href="https://mayramduarte.github.io/css-mmd-ud1
 /01-css-mmd/inheritance.html" target="_blank">Practice-006 (Prática-006)</a></li>
 <li><a href="https://mayramduarte.github.io/css-mmd-ud1
-/01-css-mmd/inline.htmll" target="_blank">Practice-007 (Prática-007)</a></li>
+/01-css-mmd/inline.html" target="_blank">Practice-007 (Prática-007)</a></li>
 <li><a href="https://mayramduarte.github.io/css-mmd-ud1
 /01-css-mmd/internal.html" target="_blank">Practice-008 (Prática-008)</a></li>
 <li><a href="https://mayramduarte.github.io/css-mmd-ud1
 /01-css-mmd/selector.html" target="_blank">Practice-009 (Prática-009)</a></li>
 <li><a href="https://mayramduarte.github.io/css-mmd-ud1
-/01-css-mmd/specificity.htm" target="_blank">Practice-010 (Prática-010)</a></li>
+/01-css-mmd/specificity.html" target="_blank">Practice-010 (Prática-010)</a></li>
 </ul>
