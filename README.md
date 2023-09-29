@@ -14,9 +14,11 @@
 
 <p><a href="https://mayramduarte.github.io/css-mmd-ud1/04-css-fundamentals-project-mmd/" target="_blank">Exercise-001 (Exercício-001)</a></p>
 
-<p><a href="https://mayramduarte.github.io/css-mmd-ud1/06-colors-project-mmd/" target="_blank">Exercise-002 (Exercício-002)</a></p>
+<p><a href="https://mayramduarte.github.io/css-mmd-ud1
+/06-colors-project-mmd/" target="_blank">Exercise-002 (Exercício-002)</a></p>
 
-<p><a href="https://mayramduarte.github.io/css-mmd-ud1/08-units-project-mmd/" target="_blank">Exercise-003 (Exercício-003)</a></p>
+<p><a href="https://mayramduarte.github.io/css-mmd-ud1
+/08-units-project-mmd/" target="_blank">Exercise-003 (Exercício-003)</a></p>
 
 <h2>Exercises (Exercícios)</h2>
 
